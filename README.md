@@ -1,5 +1,5 @@
 # hackathon-food-delivery-project
-# Hackathon Food Delivery Data Analysis 🚀🍔
+# Hackathon Food Delivery Data Analysis 
 
 This project analyzes a food delivery dataset to uncover business insights using Python, Pandas, and data visualization techniques. The goal is to answer real-world business questions related to revenue, customer behavior, memberships, cities, cuisines, and restaurant performance.
 
